@@ -103,7 +103,7 @@
 		"editorSuggestWidget.highlightForeground": "#6de0e0",
 		"editorSuggestWidget.selectedBackground": "#121420",
 		"editorSuggestWidget.selectedForeground": "#8e919f",
-		"editorSuggestWidget.selectedIconForeground": "#6de0e0",
+		"editorSuggestWidget.selectedIconForeground": "#f9d927",
 		"editorWarning.background": "#a9904000",
 		"editorWarning.border": "#ffffff00",
 		"editorWarning.foreground": "#ffcb6b",
