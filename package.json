@@ -1,0 +1,27 @@
+{
+  "name": "mintmissy-theme",
+  "displayName": "MintMissy Theme",
+  "publisher": "MintMissy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MintMissy/MintMissyTheme"
+  },
+  "description": "My theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "keywords": [],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MintMissy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MintMissy Theme-color-theme.json"
+      }
+    ]
+  }
+}
